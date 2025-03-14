@@ -1,2 +1,3 @@
 ollama
 beautifulsoup4
+Flask
